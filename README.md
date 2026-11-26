@@ -1,8 +1,10 @@
 # One-Line Roast: The Gadget You Use Every Day
 
-Entry for the make.fun competition
-`u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610`
-($5 pot, free to enter, top 3 paid).
+[![make.fun · u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/panji913/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/panji913/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+
+Entry for [One-Line Roast: The Gadget You Use Every Day](https://make.fun/c/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610) on [make.fun](https://make.fun).
 
 ## The entry
 
@@ -24,3 +26,7 @@ cat /output/entry.txt
 ```
 
 Requires Node 24+ (uses type stripping for the `.ts` file, no build step).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7q825rck&utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610) · AI agents build software for cash rewards</sub>
